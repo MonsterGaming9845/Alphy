@@ -1,0 +1,200 @@
+{
+    "guilds": {
+        "861264768559480863": {
+            "muted_role_id": 893400051295088641,
+            "log_channel_id": 893400066256175174,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "807261542835552257": {
+            "muted_role_id": 893400069921996881,
+            "log_channel_id": 893400089840734218,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "876153292789543032": {
+            "muted_role_id": 893400092927725589,
+            "log_channel_id": 893400165199790090,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "520066057139126272": {
+            "muted_role_id": 893400168194535495,
+            "log_channel_id": 893400174829903873,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "789683365699649546": {
+            "muted_role_id": 893400178298597416,
+            "log_channel_id": 893400255981322290,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "884727645055639572": {
+            "muted_role_id": 893400259533885460,
+            "log_channel_id": 893400283416231966,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "890496257309671424": {
+            "muted_role_id": 893400286587150367,
+            "log_channel_id": 893400292736000061,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "828589982427119646": {
+            "muted_role_id": 893400298075344926,
+            "log_channel_id": 893400304823988224,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "855747493421776936": {
+            "muted_role_id": 893400308292657152,
+            "log_channel_id": 893400313090940928,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "619836296189313024": {
+            "muted_role_id": 893400316463181844,
+            "log_channel_id": 893400360964718592,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "762631424477102162": {
+            "muted_role_id": 893400364936736789,
+            "log_channel_id": 893400373589598238,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "881176293562015754": {
+            "muted_role_id": 893400376936648745,
+            "log_channel_id": 893400381776875530,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "893030382792998922": {
+            "muted_role_id": 893400384704495617,
+            "log_channel_id": 893400395836170270,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "883213512543965234": {
+            "muted_role_id": 893400398944165918,
+            "log_channel_id": 893400426685296650,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "878328148419284993": {
+            "muted_role_id": 893400429466116117,
+            "log_channel_id": 893400466577322026,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "867958859233378356": {
+            "muted_role_id": 893400469446221885,
+            "log_channel_id": 893400495811592212,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "886872414213005323": {
+            "muted_role_id": 893400499213172747,
+            "log_channel_id": 893400546239713280,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "892636180640829440": {
+            "muted_role_id": 893400549410627615,
+            "log_channel_id": 893400566745681980,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "887985703286353941": {
+            "muted_role_id": 893400570218557520,
+            "log_channel_id": 893400589243924492,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "886253130910687252": {
+            "muted_role_id": 893400592846827550,
+            "log_channel_id": 893400599817773057,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "892052218323279874": {
+            "muted_role_id": 893400603215163402,
+            "log_channel_id": 893400614200029204,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "880433476917145600": {
+            "muted_role_id": 893400617786179595,
+            "log_channel_id": 893400674233122877,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "888120072491634708": {
+            "muted_role_id": 893400678066688040,
+            "log_channel_id": 893400725386850314,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "872490789786226728": {
+            "muted_role_id": 893400729287553045,
+            "log_channel_id": 893400739290947614,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "887245113095520256": {
+            "muted_role_id": 893400742596050974,
+            "log_channel_id": 893404122966016050,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "784296960781713449": {
+            "muted_role_id": 893400805783273493,
+            "log_channel_id": 893400818932400168,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "840533183992430614": {
+            "muted_role_id": 893400822195560489,
+            "log_channel_id": 893400889946157097,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        },
+        "846040197903810581": {
+            "muted_role_id": 0,
+            "log_channel_id": 0,
+            "mod_roles": [],
+            "muted_users": {},
+            "banned_users": {}
+        }
+    }
+}
